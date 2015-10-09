@@ -9,10 +9,12 @@ CustomersMailCloud java-smtp-client 1.0.0
 
 ## Build
 ご自身でソースからビルドする場合、以下の手順でビルドしてください。  
-    $ git clone https://github.com/hde-cm/java-ses-client.git
-    $ cd java-ses-client
-    $ mvn install
-    $ cp target/cmc-ses-1.0.0.jar ./cmc-ses.jar
+```
+$ git clone https://github.com/hde-cm/java-ses-client.git
+$ cd java-ses-client
+$ mvn install
+$ cp target/cmc-ses-1.0.0.jar ./cmc-ses.jar
+```
 
 ## Install
 cmc-smtp.jar を <https://github.com/hde-cm/java-smtp-client> からダウンロードしてください。  
