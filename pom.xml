@@ -36,6 +36,11 @@
       <artifactId>mail</artifactId>
       <version>1.4.7</version>
     </dependency>
+    <dependency>
+      <groupId>jp.co.hde.mail.smtp</groupId>
+      <artifactId>cmc-smtp</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
 
 </project>

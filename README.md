@@ -5,8 +5,8 @@ JavaMailが提供するTransportクラスの代わり使用することができ
 ## Requirement
 JDK1.6以上  
 JavaMail 1.4以上  
-AWS-JAVA-SDK 1.10以上  
-java-smtp-client
+AWS-JAVA-SDK 1.10.22  
+cmc-smtp-client
 
 ## Build
 
