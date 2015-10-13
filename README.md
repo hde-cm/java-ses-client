@@ -1,11 +1,11 @@
 # CustomersMailCloud - Java/SES
 Amazon SESのインターフェースで、SMTPサーバにメールを送信するJavaライブラリです。 
-Amazon SDKが提供するAmazonSimpleEmailServiceClientクラスの代わり使用することができます。
+AWS SDK for Java が提供するAmazonSimpleEmailServiceClient クラスの代わり使用することができます。
 
 ## Requirement
 JDK1.6以上  
-AWS-JAVA-SDK 1.10.22  
-CustomersMailCloud java-smtp-client 1.0.0
+AWS SDK for Java 1.10.22  
+CustomersMailCloud java-smtp-client 1.0.0  
 
 ## Build
 ご自身でソースからビルドする場合、以下の手順でビルドしてください。  
